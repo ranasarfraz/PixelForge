@@ -2,6 +2,9 @@
 
 PixelForge is a user-friendly desktop tool to prepare images for app development, Google Play Store, and game assets.
 
+## 🚀 Download
+Download **PixelForge.exe** from **Windows Build** folder to run it in your Windows Computer
+
 ## ✨ Features
 - **4x4 Alignment Mode**: Ensures images have width/height divisible by 4 (ETC2 compression friendly for Unity and other engines).
 - **Resize Mode**: Resize images to target width (256, 512, 1024, 2048, or custom).
